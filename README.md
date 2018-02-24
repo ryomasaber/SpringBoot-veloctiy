@@ -27,5 +27,5 @@ springboot1.5以上因不支持velocity
 
 
 >本项目根据 http://download.csdn.net/download/qq_30023773/10032465 
-提供的gradle版改编而来>>
-github地址：https://github.com/liuzhaohong/springboot
+提供的gradle版改编而来
+>github地址：https://github.com/liuzhaohong/springboot
