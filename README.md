@@ -6,7 +6,7 @@ springboot1.5以上因不支持velocity
 不过此工程配置可支持velocity
 
 问题的核心在于高版本的springboot未注入spring-context-support,因此只需在pom中添加即可
-        <!--velocity配置-->
+      ``<!--velocity配置-->
         		<dependency>
         			<groupId>org.apache.velocity</groupId>
         			<artifactId>velocity</artifactId>
@@ -22,7 +22,7 @@ springboot1.5以上因不支持velocity
         			<artifactId>spring-context-support</artifactId>
         			<version>4.3.14.RELEASE</version>
         		</dependency>
-        <!---->
+        <!---->``
 
 
 
